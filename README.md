@@ -11,7 +11,7 @@ Node.js · PostgreSQL · Figma · Git
 ## Проекты
 - [Сайт WellWet](https://github.com/wellsert/ujcjgjk-master.git) — React, JS, Tailwind CSS
 - [Лендинг](https://github.com/wellsert/wewe.git) — HTML, CSS
-- [Канбан-доска](https://github.com/ivanov-dev/kanban) — 
+- [Практика](https://github.com/wellsert/praktica.git) — JavaScript
 
 ## Контакты
 prudkaia.aa@gmail.com
