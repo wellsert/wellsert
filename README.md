@@ -9,9 +9,9 @@ JavaScript · React · Tailwind CSS
 Node.js · PostgreSQL · Figma · Git
 
 ## Проекты
-- [Сайт WellWet](https://github.com/wellsert/ujcjgjk-master.git) — 
-- [Интернет-магазин](https://github.com/ivanov-dev/shop) — React + NestJS, админ-панель
-- [Канбан-доска](https://github.com/ivanov-dev/kanban) — совместная работа в реальном времени
+- [Сайт WellWet](https://github.com/wellsert/ujcjgjk-master.git) — React, JS, Tailwind CSS
+- [Лендинг](https://github.com/wellsert/wewe.git) — HTML, CSS
+- [Канбан-доска](https://github.com/ivanov-dev/kanban) — 
 
 ## Контакты
 prudkaia.aa@gmail.com
