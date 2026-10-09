@@ -1,16 +1,18 @@
-## Hi there 👋
+# Привет, я Анастасия 👋
 
-<!--
-**wellsert/wellsert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Студентка 3 курса, специальность «Информационные системы и программирование».
+Делаю веб-приложения целиком: интерфейс на React, сервер на Node.js.
+Ищу стажировку fullstack-разработчиком.
 
-Here are some ideas to get you started:
+## Стек
+JavaScript · React · Tailwind CSS
+Node.js · PostgreSQL · Figma · Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Проекты
+- [Сайт WellWet](https://github.com/wellsert/ujcjgjk-master.git) — 
+- [Интернет-магазин](https://github.com/ivanov-dev/shop) — React + NestJS, админ-панель
+- [Канбан-доска](https://github.com/ivanov-dev/kanban) — совместная работа в реальном времени
+
+## Контакты
+prudkaia.aa@gmail.com
+
